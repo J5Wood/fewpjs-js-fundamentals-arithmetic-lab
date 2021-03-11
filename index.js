@@ -1,2 +1,12 @@
+const num1 = 2;
+const num2 = 31;
+const num3 = 364;
+const num4 = 45;
 
-// Write your code here
+const multiply = num1 * num2;
+
+const random = Math.floor(Math.random() * 10) + 1;
+
+const mod = num3 % num4;
+
+const max = Math.max( 2, 5, 7, 16, 20, 1, 15, 3, 8)
